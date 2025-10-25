@@ -1,4 +1,3 @@
-﻿# resume-builder-using-vanilla-javascript
 
  # Resume Builder with Vanilla JavaScript
 
@@ -10,7 +9,7 @@ A simple, client-side web application that allows users to dynamically create, p
 
 [Insert a screenshot or GIF of the application in action here. You can drag and drop an image into this README file on GitHub to upload it.]
 
-**Live Demo:** [Link to your live hosted site (e.g., on GitHub Pages or Netlify)]
+**Live Demo:** https://resume-builder-using-vanilla-javasc-kappa.vercel.app/
 
 ---
 
@@ -76,4 +75,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
+
 
